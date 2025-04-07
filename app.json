@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "expo-app-boilerplate",
-    "slug": "expo-app-boilerplate",
+    "slug": "bell",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -10,7 +10,7 @@
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.cqjack.expoappboilerplate",
+      "bundleIdentifier": "xyz.bentopop.bell",
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
       }
@@ -20,7 +20,7 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.cqjack.expoappboilerplate"
+      "package": "xyz.bentopop.bell"
     },
     "web": {
       "bundler": "metro",
@@ -47,8 +47,9 @@
         "origin": false
       },
       "eas": {
-        "projectId": "e55fcdea-13e2-4c3b-a4c3-59c174184eb5"
+        "projectId": "20ab8568-bb1b-4120-b5fe-9f549b8fa511"
       }
-    }
+    },
+    "owner": "carlosarthur"
   }
 }
